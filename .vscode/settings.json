@@ -1,0 +1,25 @@
+{
+    "python.languageServer": "Pylance",
+    "python.linting.enabled": true,
+    "python.analysis.autoImportCompletions": false,
+    "python.analysis.autoSearchPath": true,
+    "python.jediEnabled": false,
+    "python.autoComplete.extraPaths": [
+        ".vscode\\stub",
+        "src\\lib"
+    
+    ],
+    "python.autoComplete.typeshedPaths": [
+        ".vscode\\stub","src\\lib"
+        
+    ],
+    "python.analysis.typeshedPaths": [
+        ".vscode\\stub","src\\lib"
+        
+    ],
+    "python.linting.pylintEnabled": true,
+    "python.analysis.extraPaths": [
+        ".vscode\\stub",
+        "src\\lib"
+    ]
+}
